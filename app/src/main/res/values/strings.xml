@@ -2,7 +2,7 @@
     <!-- Nombre de la aplicación -->
     <string name="app_name">Cuchareable App</string>
 
-    <string name="maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyClib1AIarCFVlrdlF5Q1gBMIJn5ByRslI</string>
+    <string name="maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_GOOGLE_MAPS_API_KEY_HERE</string>
     <!-- Textos de la interfaz -->
     <string name="app_title">🍴 Cuchareable App</string>
     <string name="instructions">📍 Toca los marcadores para ver información de los lugares de comida</string>

@@ -1,0 +1,32 @@
+<resources>
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">Cuchareable App</string>
+
+    <string name="maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyClib1AIarCFVlrdlF5Q1gBMIJn5ByRslI</string>
+    <!-- Textos de la interfaz -->
+    <string name="app_title">🍴 Cuchareable App</string>
+    <string name="instructions">📍 Toca los marcadores para ver información de los lugares de comida</string>
+
+    <!-- Mensajes de ubicación -->
+    <string name="current_location">Tu ubicación</string>
+    <string name="location_description">Ubicación actual en tiempo real</string>
+    <string name="permission_required">Los permisos de ubicación son necesarios para mostrar tu posición</string>
+    <string name="this_is_your_location">Esta es tu ubicación actual</string>
+
+    <!-- Información de lugares -->
+    <string name="place_info_title">Información del Lugar</string>
+    <string name="ok_button">OK</string>
+    <string name="go_to_place">Ir al lugar</string>
+    <string name="navigation_coming_soon">Función de navegación próximamente</string>
+
+    <!-- Información de los marcadores de comida -->
+    <string name="anticuchos_name">Anticuchos Don Pepe</string>
+    <string name="anticuchos_type">Tipo: Anticuchos y Parrillas</string>
+
+    <string name="hamburguesas_name">Hamburguesas Ricky</string>
+    <string name="hamburguesas_type">Tipo: Hamburguesas y Comida Rápida</string>
+
+    <string name="chochos_name">Chochos del Parque</string>
+    <string name="chochos_type">Tipo: Chochos y Snacks</string>
+
+</resources>

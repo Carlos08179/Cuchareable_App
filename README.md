@@ -43,6 +43,7 @@ app/src/main/res/values/strings.xml
 
 3. Inserta tu propia Google Maps API Key entre las etiquetas <string>...</string>.
 
+
 ---
 
 ## 📸 Capturas de pantalla
